@@ -8,6 +8,9 @@ Accepted to MICCAI 2020
 ## Inverse Weighting
 ![](https://i.imgur.com/QqVrmje.png)
 
+根據面積做reweighting
+本篇提出的方法（右），是不管class是否相同，只要不相連，都會有不同的weight
+
 ## Method
 ![](https://i.imgur.com/x7k8iz2.png)
 
